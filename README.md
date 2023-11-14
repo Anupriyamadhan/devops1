@@ -1,1 +1,1 @@
-# devops1
+git bsic omands# devops1
